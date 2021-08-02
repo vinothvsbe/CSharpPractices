@@ -1,0 +1,15 @@
+/Users/vinothvs/Development/CSharpPractices/SOLID/obj/Debug/net5.0/SOLID.csprojAssemblyReference.cache
+/Users/vinothvs/Development/CSharpPractices/SOLID/obj/Debug/net5.0/SOLID.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vinothvs/Development/CSharpPractices/SOLID/obj/Debug/net5.0/SOLID.AssemblyInfoInputs.cache
+/Users/vinothvs/Development/CSharpPractices/SOLID/obj/Debug/net5.0/SOLID.AssemblyInfo.cs
+/Users/vinothvs/Development/CSharpPractices/SOLID/obj/Debug/net5.0/SOLID.csproj.CoreCompileInputs.cache
+/Users/vinothvs/Development/CSharpPractices/SOLID/bin/Debug/net5.0/SOLID.deps.json
+/Users/vinothvs/Development/CSharpPractices/SOLID/bin/Debug/net5.0/SOLID.runtimeconfig.json
+/Users/vinothvs/Development/CSharpPractices/SOLID/bin/Debug/net5.0/SOLID.runtimeconfig.dev.json
+/Users/vinothvs/Development/CSharpPractices/SOLID/bin/Debug/net5.0/SOLID.dll
+/Users/vinothvs/Development/CSharpPractices/SOLID/bin/Debug/net5.0/ref/SOLID.dll
+/Users/vinothvs/Development/CSharpPractices/SOLID/bin/Debug/net5.0/SOLID.pdb
+/Users/vinothvs/Development/CSharpPractices/SOLID/obj/Debug/net5.0/SOLID.dll
+/Users/vinothvs/Development/CSharpPractices/SOLID/obj/Debug/net5.0/ref/SOLID.dll
+/Users/vinothvs/Development/CSharpPractices/SOLID/obj/Debug/net5.0/SOLID.pdb
+/Users/vinothvs/Development/CSharpPractices/SOLID/obj/Debug/net5.0/SOLID.genruntimeconfig.cache
